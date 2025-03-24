@@ -37,7 +37,7 @@ Before running the tests, ensure you have:
      ## For Stress Testing: 
      - ![Stress Test Report](https://github.com/user-attachments/assets/f13e64e7-714f-4209-90a5-16f5aa734116) 
    - ### Dmoney API
-     - ## For Function Testing: 
+     - ## For Functional Testing: 
      - ![Dmoney Report](https://github.com/user-attachments/assets/b11de3ce-c6f6-440e-bf00-f07f7282eda1)
 
     
