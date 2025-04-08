@@ -29,8 +29,7 @@ Before running the tests, ensure you have:
       - Open dmoney.jmx in JMeter.
       - Ensure the deposit.csv, sendMoney.csv, and payment.csv files are present.
       - Run the test to validate financial transactions.
-## CSV File For those test
-https://docs.google.com/spreadsheets/d/1Le9AZrgVxg_jc8Q0ueeENUO_W8y6h42C/edit?usp=sharing&ouid=106851050293382559720&rtpof=true&sd=true
+
 ## Results & HTML Reports
    - ### Booking API 
      ## For Load Testing:
